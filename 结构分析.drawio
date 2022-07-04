@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:35:16.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="CrFNSIQp__mMh57zmsIV" type="github"><diagram id="-uO7c01zvqMkISeJF9gR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-04T06:50:45.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nsjcOi2JH4TLHrM2-WNu" version="20.0.4" type="github">
+  <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
+    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-2" value="容器&lt;br&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;能放容器和库位&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-3" target="Gc0ZzkE7HIkw814P57XK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-3" value="库位条码&lt;br&gt;&lt;br&gt;标识号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-4" value="抽屉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-6" value="栈板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-7" value="笼车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-8" value="巷道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-9" value="售后仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-11" target="Gc0ZzkE7HIkw814P57XK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-11" target="Gc0ZzkE7HIkw814P57XK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-11" target="Gc0ZzkE7HIkw814P57XK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-11" value="SKU - 一种具体商品（编码）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-12" value="商品分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-14" target="Gc0ZzkE7HIkw814P57XK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-14" value="商品名&lt;br&gt;SPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-16" target="Gc0ZzkE7HIkw814P57XK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-16" value="具体规格&lt;br&gt;内存、CPU、etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-18" target="Gc0ZzkE7HIkw814P57XK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-18" value="容器条码&lt;br&gt;&lt;br&gt;标识号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-22" value="仓库&lt;br&gt;&lt;br&gt;现实仓库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-23" target="Gc0ZzkE7HIkw814P57XK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-23" value="库房&lt;br&gt;&lt;br&gt;仓库的某个房间&lt;br&gt;或定向区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-24" target="Gc0ZzkE7HIkw814P57XK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-24" value="储区&lt;br&gt;&lt;br&gt;库房的定向存储区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-25" target="Gc0ZzkE7HIkw814P57XK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-25" value="货架&lt;br&gt;&lt;br&gt;多层货物存储架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-26" target="Gc0ZzkE7HIkw814P57XK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-36" value="1:N 首个库位&lt;br&gt;与容器标识一致" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-26" target="Gc0ZzkE7HIkw814P57XK-2">
+          <mxGeometry x="-0.3684" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-26" value="库位&lt;br&gt;能放容器和商品&lt;br&gt;仓库min存储对象单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-32" value="1:1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-31" target="Gc0ZzkE7HIkw814P57XK-26">
+          <mxGeometry x="0.0556" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-31" target="Gc0ZzkE7HIkw814P57XK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-31" value="盒子&lt;br&gt;存放商品的小区域&lt;br&gt;可横/纵划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-35" value="1:N" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Gc0ZzkE7HIkw814P57XK-34" target="Gc0ZzkE7HIkw814P57XK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc0ZzkE7HIkw814P57XK-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="100" width="20" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
