@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T02:20:44.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="23HmSDAiOOfZ933bwHbk" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T02:22:46.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-FOIm1iBDsibLnvnnY7H" version="20.0.4" type="github" pages="2">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,8 +297,14 @@
         <mxCell id="c3lsfkHb321xXwyXLe64-34" value="瑞表" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c3lsfkHb321xXwyXLe64-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="c3lsfkHb321xXwyXLe64-37" target="c3lsfkHb321xXwyXLe64-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c3lsfkHb321xXwyXLe64-37" value="北京部门&lt;br&gt;&lt;br&gt;郝爷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3lsfkHb321xXwyXLe64-40" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: &amp;quot;Trebuchet MS&amp;quot;, Verdana, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Text&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.3px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;实体仓储&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
