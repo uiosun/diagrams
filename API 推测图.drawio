@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T06:38:53.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZFW3RZaXA6qeRknljBaf" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T06:53:16.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9hokUkK3ldnOJWOEAr5F" version="20.0.4" type="github">
   <diagram id="iMI9avvByJYGrVJphxww" name="配置表">
     <mxGraphModel dx="1390" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -37,8 +37,14 @@
         <mxCell id="czFrzgMa1SwxG-ueNA2U-1" value="值类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="czFrzgMa1SwxG-ueNA2U-75" value="" style="edgeStyle=none;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;startArrow=none;startFill=0;strokeColor=#A8201A;fillColor=#FAE5C7;endArrow=none;endFill=0;" edge="1" parent="1" source="czFrzgMa1SwxG-ueNA2U-2" target="czFrzgMa1SwxG-ueNA2U-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="czFrzgMa1SwxG-ueNA2U-2" value="分组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="czFrzgMa1SwxG-ueNA2U-76" value="" style="edgeStyle=none;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="czFrzgMa1SwxG-ueNA2U-3" target="czFrzgMa1SwxG-ueNA2U-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czFrzgMa1SwxG-ueNA2U-3" value="前缀" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
@@ -101,7 +107,7 @@
           <mxGeometry x="520" y="420" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czFrzgMa1SwxG-ueNA2U-33" value="分组前缀名 =&amp;gt; 值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="190" y="40" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="czFrzgMa1SwxG-ueNA2U-34" value="解释&lt;br&gt;&lt;br&gt;选填" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
