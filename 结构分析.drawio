@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T12:20:19.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8Ygf8k-B2QnWQkGCEtDB" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-11T12:21:19.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nH5SCsWImDN_68z-WU2B" version="20.0.4" type="github" pages="3">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,7 +375,7 @@
         <mxCell id="1W9DLGnC2aledSkxVlLB-10" value="数据类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1W9DLGnC2aledSkxVlLB-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1W9DLGnC2aledSkxVlLB-11" target="1W9DLGnC2aledSkxVlLB-12">
+        <mxCell id="1W9DLGnC2aledSkxVlLB-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1W9DLGnC2aledSkxVlLB-11" target="1W9DLGnC2aledSkxVlLB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1W9DLGnC2aledSkxVlLB-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1W9DLGnC2aledSkxVlLB-11" target="1W9DLGnC2aledSkxVlLB-4">
@@ -404,6 +404,9 @@
         </mxCell>
         <mxCell id="1W9DLGnC2aledSkxVlLB-21" value="显示组件" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1W9DLGnC2aledSkxVlLB-26" value="&lt;div&gt;design_ticket = 单据总表&lt;/div&gt;&lt;div&gt;design_ticket_field = 单据字段&lt;/div&gt;&lt;div&gt;design_ticket_field_relation = 设计单据关系&lt;/div&gt;&lt;div&gt;design_ticket_translation = 枚举表&lt;/div&gt;&lt;div&gt;ticket_field_relation = 原始数据关系&lt;/div&gt;&lt;div&gt;ticket_table = 原始表信息&lt;/div&gt;&lt;div&gt;ticket_table_field = 原始表字段&lt;/div&gt;&lt;div&gt;ticket_translation = 原始表枚举&lt;/div&gt;&lt;div&gt;vi_ticket_selector = 视图单据过滤器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-190" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
