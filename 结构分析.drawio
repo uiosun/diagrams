@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T09:30:53.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sG1-PrMi9xwNlDSyKuY8" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-22T07:14:13.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_gBQrpgi7f4ub_IR1uzb" version="20.1.3" type="github" pages="4">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,6 +487,38 @@
         </mxCell>
         <mxCell id="sT_aM66sMtU2DPnFg65d-27" value="业务场景下可以定义多套可用的组件配置&lt;br&gt;&lt;br&gt;界面上如何使用？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1350" y="520" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wz-QCH20Zbm18DBYWIZf" name="第 4 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-32" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=1;curved=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bQXZXEXbQsCzZoAFeV25-30" target="bQXZXEXbQsCzZoAFeV25-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-30" value="" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="359" y="190" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-31" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;sketch=1;curved=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="bQXZXEXbQsCzZoAFeV25-22" target="bQXZXEXbQsCzZoAFeV25-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-22" value="业务类型" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="149" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-24" value="业务类型&amp;nbsp;ID、&lt;br&gt;业务场景、是否默认" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="379" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-27" value="组件的定义" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="539" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-28" value="场景的组件 Key、组件参数的配置" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="529" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXZXEXbQsCzZoAFeV25-34" value="QA：视图和场景的差异是？&lt;br&gt;&lt;br&gt;场景具备一部分视图的配置可能&lt;br&gt;且同配置冲突时，优先级低于视图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;rounded=1;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="209" y="80" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
