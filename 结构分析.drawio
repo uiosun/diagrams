@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:46:08.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fXceNYlkzdzELmkUrT67" version="20.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-01T02:10:41.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KHXSVHQWMK_mahFbx5tP" version="20.2.2" type="github" pages="5">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -558,20 +558,95 @@
         <mxCell id="5Ft2aeRXtuqIxt984KWE-8" value="数据类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTg3brTzxLGW5RD6WNpM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;endArrow=none;endFill=0;" edge="1" parent="1" source="jTg3brTzxLGW5RD6WNpM-1" target="5Ft2aeRXtuqIxt984KWE-1">
+        <mxCell id="jTg3brTzxLGW5RD6WNpM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;endArrow=none;endFill=0;" parent="1" source="jTg3brTzxLGW5RD6WNpM-1" target="5Ft2aeRXtuqIxt984KWE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jTg3brTzxLGW5RD6WNpM-1" value="数据集的列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="jTg3brTzxLGW5RD6WNpM-1" value="数据集的列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="149" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTg3brTzxLGW5RD6WNpM-3" value="场景" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="jTg3brTzxLGW5RD6WNpM-3" value="场景" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="1050" y="385" width="320" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="jTg3brTzxLGW5RD6WNpM-4" value="设计单据字段&lt;br&gt;该字段的业务类型&lt;br&gt;该字段的业务场景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="jTg3brTzxLGW5RD6WNpM-4" value="设计单据字段&lt;br&gt;该字段的业务类型&lt;br&gt;该字段的业务场景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="1070" y="402.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTg3brTzxLGW5RD6WNpM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="jTg3brTzxLGW5RD6WNpM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="1230" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pEkRGxdHK4usvcpMnKb_" name="Request Analyze">
+    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-1" target="mlJFifyoLXbOTB2wiHOc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-1" value="127.0.0.1/a/b/c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-2" target="mlJFifyoLXbOTB2wiHOc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-2" value="输入路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-4" target="mlJFifyoLXbOTB2wiHOc-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-4" value="将&amp;nbsp;b&amp;nbsp;作为数据集标识&lt;br&gt;&lt;br&gt;查询数据集 b 的配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-8" target="mlJFifyoLXbOTB2wiHOc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-8" target="mlJFifyoLXbOTB2wiHOc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-8" value="数据集存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="315" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-9" target="mlJFifyoLXbOTB2wiHOc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-9" value="查询用户拥有的权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-11" target="mlJFifyoLXbOTB2wiHOc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-11" value="查询的权限列组和默认列组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-14" value="将查到的列组进行合并，&lt;b&gt;替换&lt;/b&gt; columns&amp;nbsp;参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-16" target="mlJFifyoLXbOTB2wiHOc-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-16" value="查询本数据集&lt;br&gt;指定的过滤器&lt;br&gt;或默认过滤器&lt;br&gt;或标准过滤器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-19" target="mlJFifyoLXbOTB2wiHOc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-19" value="过滤器存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mlJFifyoLXbOTB2wiHOc-20" target="mlJFifyoLXbOTB2wiHOc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-20" value="获得、构建&lt;br&gt;过滤器包含的条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlJFifyoLXbOTB2wiHOc-21" value="将条件&lt;b&gt;并入&lt;/b&gt;&lt;br&gt;&amp;nbsp;filters&amp;nbsp;参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="855" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
