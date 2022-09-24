@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T16:29:04.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yprrxzqu3VuEukfM0yXn" version="20.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-24T16:32:08.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="cB0ao0F4uq_okE6ZcdTz" version="20.2.3" type="github" pages="9">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1455,7 +1455,7 @@
         <mxCell id="xSBrQOveVCmzZsIsPkOL-16" value="用 have been 写的&lt;b&gt;完成式&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="448" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-19" value="分词则可视为形容词补语，不放在动词短语里面" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-19" value="分词则可视为形容词补语，不放在动词短语里分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="335" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xSBrQOveVCmzZsIsPkOL-22" value="现在分词是形容词&lt;br&gt;&lt;br&gt;位于句中放形容词的地方" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
@@ -1523,6 +1523,12 @@
             <mxPoint x="13.5" y="350" as="sourcePoint" />
             <mxPoint x="793.5" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-58" value="现在分词有正在进行的意思" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="660" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-59" value="过去分词有被动的意思" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
