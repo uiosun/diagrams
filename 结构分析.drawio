@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T16:32:08.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="cB0ao0F4uq_okE6ZcdTz" version="20.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-28T13:28:43.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IZHX-eDQYdeUg2T-pQz5" version="20.2.3" type="github" pages="9">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,213 +1322,195 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="a0FQ2ircIfQwrtx_PwT5" name="第 8 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;curved=1;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-4" target="sPDgvyTLiZLcbwuFTZRS-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-4" value="ContainerActive&lt;br&gt;容器激活验证类" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="190" y="699" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-5" value="ContainerController&lt;br&gt;容器 API" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="355" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-11" value="基类" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-7" target="sPDgvyTLiZLcbwuFTZRS-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-7" value="ContainerStatusProcessControl" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="50" y="809" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-22" target="sPDgvyTLiZLcbwuFTZRS-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-22" target="sPDgvyTLiZLcbwuFTZRS-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-22" value="新增" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="635" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-23" target="sPDgvyTLiZLcbwuFTZRS-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-23" target="sPDgvyTLiZLcbwuFTZRS-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-23" target="sPDgvyTLiZLcbwuFTZRS-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-23" target="sPDgvyTLiZLcbwuFTZRS-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=#283618;" parent="1" source="sPDgvyTLiZLcbwuFTZRS-23" target="sPDgvyTLiZLcbwuFTZRS-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-23" value="激活" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="720" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-26" value="关闭" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-28" value="合并" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="560" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-31" value="类型转换" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="400" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-33" value="查询父子级" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="720" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-35" value="获取容器结构信息" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="880" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPDgvyTLiZLcbwuFTZRS-37" value="移动" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="OVbGakcv__LrPsH4Nqyv" name="第 9 页">
+  <diagram id="OVbGakcv__LrPsH4Nqyv" name="3 - 动词时态">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-1" target="xSBrQOveVCmzZsIsPkOL-3">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-1" target="xSBrQOveVCmzZsIsPkOL-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-1" target="xSBrQOveVCmzZsIsPkOL-5">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-1" target="xSBrQOveVCmzZsIsPkOL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-1" target="xSBrQOveVCmzZsIsPkOL-4">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-1" target="xSBrQOveVCmzZsIsPkOL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-1" value="时间（time）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-1" value="时间（time）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-3" value="现在" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-3" value="现在" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-4" value="过去" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-4" value="过去" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-5" value="未来" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-5" value="未来" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-10" value="被动语态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-10" value="被动语态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="690" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-11" value="主动语态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-11" value="主动语态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="690" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-12" target="xSBrQOveVCmzZsIsPkOL-10">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-12" target="xSBrQOveVCmzZsIsPkOL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-12" target="xSBrQOveVCmzZsIsPkOL-11">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-12" target="xSBrQOveVCmzZsIsPkOL-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-12" value="状态（aspect）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-12" value="状态（aspect）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="500" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-13" value="把 be 动词当做动词，其后的分词则视为形容词补语" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-13" value="把 be 动词当做动词，其后的分词则视为形容词补语" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="25" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-14" value="动词短语长的时候，里面一定会有 be 动词，如果把 be 动词抽离出来当做动词看待" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-14" value="动词短语长的时候，里面一定会有 be 动词，如果把 be 动词抽离出来当做动词看待" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="179" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-15" target="xSBrQOveVCmzZsIsPkOL-31">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-15" target="xSBrQOveVCmzZsIsPkOL-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-15" target="xSBrQOveVCmzZsIsPkOL-40">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-15" target="xSBrQOveVCmzZsIsPkOL-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-15" value="用 be 动词写的&lt;b&gt;简单式&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-15" value="用 be 动词写的&lt;b&gt;简单式&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="244" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-16" target="xSBrQOveVCmzZsIsPkOL-32">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-16" target="xSBrQOveVCmzZsIsPkOL-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-16" target="xSBrQOveVCmzZsIsPkOL-42">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-16" target="xSBrQOveVCmzZsIsPkOL-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-16" value="用 have been 写的&lt;b&gt;完成式&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-16" value="用 have been 写的&lt;b&gt;完成式&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="448" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-19" value="分词则可视为形容词补语，不放在动词短语里分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-19" value="分词则可视为形容词补语，不放在动词短语里分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="335" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-22" value="现在分词是形容词&lt;br&gt;&lt;br&gt;位于句中放形容词的地方" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-22" value="现在分词是形容词&lt;br&gt;&lt;br&gt;位于句中放形容词的地方" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="300" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-23" target="xSBrQOveVCmzZsIsPkOL-26">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-23" target="xSBrQOveVCmzZsIsPkOL-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-23" target="xSBrQOveVCmzZsIsPkOL-22">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-23" target="xSBrQOveVCmzZsIsPkOL-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-23" target="xSBrQOveVCmzZsIsPkOL-29">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-23" target="xSBrQOveVCmzZsIsPkOL-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-23" value="现在分词与动名词&lt;br&gt;都是&lt;b&gt;动词以ing结尾&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-23" value="现在分词与动名词&lt;br&gt;都是&lt;b&gt;动词以ing结尾&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="300" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-26" value="动名词是名词&lt;br&gt;&lt;br&gt;位于句中放名词的地方" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-26" value="动名词是名词&lt;br&gt;&lt;br&gt;位于句中放名词的地方" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="500" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-29" value="分词则可视为形容词补语，不放在动词短语里面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-29" value="分词则可视为形容词补语，不放在动词短语里面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="110" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-31" value="时间副词&lt;br&gt;表达清晰的时间点" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-31" value="时间副词&lt;br&gt;表达清晰的时间点" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="43" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-32" value="仅能表示时态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-32" value="仅能表示时态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="664" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-40" target="xSBrQOveVCmzZsIsPkOL-46">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-40" target="xSBrQOveVCmzZsIsPkOL-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-40" value="想象一个时间轴&lt;br&gt;&lt;br&gt;简单式表示具体的范围（用括号）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-40" value="想象一个时间轴&lt;br&gt;&lt;br&gt;简单式表示具体的范围（用括号）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="244" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-42" target="xSBrQOveVCmzZsIsPkOL-44">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-42" target="xSBrQOveVCmzZsIsPkOL-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-42" value="想象一个时间轴&lt;br&gt;&lt;br&gt;完成式仅有一个节点&lt;br&gt;（用箭头）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-42" value="想象一个时间轴&lt;br&gt;&lt;br&gt;完成式仅有一个节点&lt;br&gt;（用箭头）" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="448" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-44" value="我曾经见过这张脸&lt;br&gt;&lt;br&gt;现在之前，都有可能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-44" value="我曾经见过这张脸&lt;br&gt;&lt;br&gt;现在之前，都有可能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="648" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-46" value="三月将有一次大选&lt;br&gt;&lt;br&gt;整个三月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-46" value="三月将有一次大选&lt;br&gt;&lt;br&gt;整个三月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="43" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-50" target="xSBrQOveVCmzZsIsPkOL-15">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-50" target="xSBrQOveVCmzZsIsPkOL-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-50" target="xSBrQOveVCmzZsIsPkOL-16">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-50" target="xSBrQOveVCmzZsIsPkOL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-50" value="动词时态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-50" value="动词时态" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-55" value="所有时间作为具体范围" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="xSBrQOveVCmzZsIsPkOL-53" target="xSBrQOveVCmzZsIsPkOL-40">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-55" value="所有时间作为具体范围" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="1" source="xSBrQOveVCmzZsIsPkOL-53" target="xSBrQOveVCmzZsIsPkOL-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-53" value="&lt;div&gt;All mothers&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;love&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;their children.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;天下的妈妈都爱自己的小孩。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-53" value="&lt;div&gt;All mothers&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;love&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;their children.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;天下的妈妈都爱自己的小孩。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="315.5" y="770" width="176" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="13.5" y="350" as="sourcePoint" />
             <mxPoint x="793.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-58" value="现在分词有正在进行的意思" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-58" value="现在分词有正在进行的意思" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="660" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xSBrQOveVCmzZsIsPkOL-59" value="过去分词有被动的意思" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" vertex="1" parent="1">
+        <mxCell id="xSBrQOveVCmzZsIsPkOL-59" value="过去分词有被动的意思" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" parent="1" vertex="1">
           <mxGeometry x="660" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AMugo0rY_UVfW4tKv8XI" name="4 - 不定词短语">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FAD9D5" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DWIeGa60fFI_FL11mvuA-4" value="最合理的解释" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;labelBackgroundColor=#FAD9D5;" edge="1" parent="1" source="DWIeGa60fFI_FL11mvuA-1" target="DWIeGa60fFI_FL11mvuA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;labelBackgroundColor=#FAD9D5;" edge="1" parent="1" source="DWIeGa60fFI_FL11mvuA-1" target="DWIeGa60fFI_FL11mvuA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-1" value="&lt;b&gt;Base&lt;/b&gt;&lt;br&gt;&lt;br&gt;to 加上原形动词所形成的短语" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-2" value="把它视为助动词的变化。&lt;br&gt;只要弄清楚不定词与助动词之间的关系，就可以不必背任何规则" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-5" value="&lt;b&gt;目标&lt;/b&gt;&lt;br&gt;&lt;br&gt;全盘了解不定词的变化以及它与其他“动状词”（Verbals）之间的关系，包括现在分词、过去分词与动名词" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-13" value="后接" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;labelBackgroundColor=#FAD9D5;" edge="1" parent="1" source="DWIeGa60fFI_FL11mvuA-8" target="DWIeGa60fFI_FL11mvuA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-8" value="使役动词&lt;br&gt;&lt;br&gt;确定/强制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-9" value="一般动词&lt;br&gt;&lt;br&gt;不确定" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-10" value="助动词" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-11" value="不定词" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-12" value="原形动词" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-15" value="后接" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;labelBackgroundColor=#FAD9D5;" edge="1" parent="1" source="DWIeGa60fFI_FL11mvuA-14" target="DWIeGa60fFI_FL11mvuA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-14" value="感官动词" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWIeGa60fFI_FL11mvuA-16" value="&lt;b&gt;Core&lt;br&gt;&lt;/b&gt;&lt;br&gt;不定词是助动词的变化，带有不确定语气" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#EEEEEE;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
