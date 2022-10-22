@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T14:59:33.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XhUUybtI2RLB7u0myl18" version="20.3.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-10-22T15:06:39.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="m8xWhXYu6bsHGAh8xCTP" version="20.3.6" type="github" pages="11">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1613,22 +1613,22 @@
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-23" value="纸张卡住" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EyT0I8XXlI-HePWDS3zZ-1" target="MrNGeOYZC5-A0zwrcfXn-12">
           <mxGeometry x="0.1327" y="30" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="440" />
+              <mxPoint x="190" y="450" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyT0I8XXlI-HePWDS3zZ-1" value="复印" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="140" height="118" as="geometry" />
+          <mxGeometry x="120" y="240" width="140" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="EyT0I8XXlI-HePWDS3zZ-5" value="behavior1" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="EyT0I8XXlI-HePWDS3zZ-1">
+        <mxCell id="EyT0I8XXlI-HePWDS3zZ-5" value="pageLess=文档页数" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="EyT0I8XXlI-HePWDS3zZ-1">
           <mxGeometry y="60" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="EyT0I8XXlI-HePWDS3zZ-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="EyT0I8XXlI-HePWDS3zZ-1">
           <mxGeometry y="85" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="EyT0I8XXlI-HePWDS3zZ-7" value="transition1" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="EyT0I8XXlI-HePWDS3zZ-1">
-          <mxGeometry y="93" width="140" height="25" as="geometry" />
+        <mxCell id="EyT0I8XXlI-HePWDS3zZ-7" value="do / 逐张打印并减一&#xa;pageLess，直到0" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="EyT0I8XXlI-HePWDS3zZ-1">
+          <mxGeometry y="93" width="140" height="38" as="geometry" />
         </mxCell>
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-5" value="复印" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrNGeOYZC5-A0zwrcfXn-1" target="EyT0I8XXlI-HePWDS3zZ-1">
           <mxGeometry relative="1" as="geometry">
@@ -1650,19 +1650,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-7" value="缺纸警告" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="344" y="240" width="140" height="118" as="geometry" />
+          <mxGeometry x="350" y="246.5" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MrNGeOYZC5-A0zwrcfXn-8" value="behavior1" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-7">
+        <mxCell id="MrNGeOYZC5-A0zwrcfXn-8" value="pageLess=0" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-7">
           <mxGeometry y="60" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-7">
           <mxGeometry y="85" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="MrNGeOYZC5-A0zwrcfXn-10" value="transition1" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-7">
-          <mxGeometry y="93" width="140" height="25" as="geometry" />
+        <mxCell id="MrNGeOYZC5-A0zwrcfXn-10" value="do / 弹出警告并定期检查&#xa;装纸情况" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-7">
+          <mxGeometry y="93" width="140" height="37" as="geometry" />
         </mxCell>
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-24" value="维修人员&lt;br&gt;修理完毕" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MrNGeOYZC5-A0zwrcfXn-12" target="MrNGeOYZC5-A0zwrcfXn-1">
-          <mxGeometry x="-0.1509" y="50" relative="1" as="geometry">
+          <mxGeometry x="-0.2361" y="50" relative="1" as="geometry">
             <mxPoint x="360" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="74" />
@@ -1671,16 +1671,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-12" value="卡纸警告" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="440" y="380" width="140" height="118" as="geometry" />
+          <mxGeometry x="440" y="390" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MrNGeOYZC5-A0zwrcfXn-13" value="behavior1" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-12">
+        <mxCell id="MrNGeOYZC5-A0zwrcfXn-13" value="pageLess=0" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-12">
           <mxGeometry y="60" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MrNGeOYZC5-A0zwrcfXn-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-12">
           <mxGeometry y="85" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="MrNGeOYZC5-A0zwrcfXn-15" value="transition1" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-12">
-          <mxGeometry y="93" width="140" height="25" as="geometry" />
+        <mxCell id="MrNGeOYZC5-A0zwrcfXn-15" value="do / 弹出警告并拒绝复印&#xa;命令" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;" vertex="1" parent="MrNGeOYZC5-A0zwrcfXn-12">
+          <mxGeometry y="93" width="140" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MrNGeOYZC5-A0zwrcfXn-25" value="题目4，打印机的状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="50" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
