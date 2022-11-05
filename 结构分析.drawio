@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T11:34:49.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9sixUvDH2u6YPvLFJZbs" version="20.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-11-05T11:36:34.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mNYT16t4N55k4n__asEP" version="20.5.2" type="github" pages="14">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2268,8 +2268,11 @@
         <mxCell id="vGmjqsyjWKLyIuw1ByT6-14" value="游戏配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="780" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vGmjqsyjWKLyIuw1ByT6-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="vGmjqsyjWKLyIuw1ByT6-15" target="vGmjqsyjWKLyIuw1ByT6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vGmjqsyjWKLyIuw1ByT6-15" value="50&amp;nbsp;个地点，100&amp;nbsp;个怪物，400&amp;nbsp;件商品" style="whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vGmjqsyjWKLyIuw1ByT6-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="vGmjqsyjWKLyIuw1ByT6-16" target="vGmjqsyjWKLyIuw1ByT6-17">
           <mxGeometry relative="1" as="geometry" />
@@ -2283,7 +2286,7 @@
         <mxCell id="vGmjqsyjWKLyIuw1ByT6-20" value="寻找怪物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="1430" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vGmjqsyjWKLyIuw1ByT6-21" value="与怪物战斗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="vGmjqsyjWKLyIuw1ByT6-21" value="与怪物战斗&lt;br&gt;胜利会返还" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="1430" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vGmjqsyjWKLyIuw1ByT6-22" value="逃跑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
