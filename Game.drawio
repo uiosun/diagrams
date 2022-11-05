@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T14:07:58.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.2" etag="AjtfBOU0sxnLaV5yxgtc" type="github"><diagram id="gApGclIdRGgm6L0GhFI3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-05T14:08:31.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aY7bp2m154ME83RiTd7h" version="20.5.2" type="github">
+  <diagram id="gApGclIdRGgm6L0GhFI3" name="第 1 页">
+    <mxGraphModel dx="1422" dy="-65" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-1" value="注册" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="40" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-2" value="登录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;curved=1;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-7" target="t5cG3bdQ71GEHRC8gfJG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-7" target="t5cG3bdQ71GEHRC8gfJG-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-7" target="t5cG3bdQ71GEHRC8gfJG-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-7" target="t5cG3bdQ71GEHRC8gfJG-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-7" value="玩家信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="260" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-8" value="玩家的所处地点" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="480" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-9" value="玩家的人物信息" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-10" value="玩家的装备槽位" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-11" value="玩家的基本信息&lt;br&gt;ID、服务器时间、等" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-13" target="t5cG3bdQ71GEHRC8gfJG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-13" value="游戏配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-15" target="t5cG3bdQ71GEHRC8gfJG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-15" value="50&amp;nbsp;个地点，100&amp;nbsp;个怪物，400&amp;nbsp;件商品" style="whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" edge="1" parent="1" source="t5cG3bdQ71GEHRC8gfJG-17" target="t5cG3bdQ71GEHRC8gfJG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-17" value="当前地点的怪物列表" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-18" value="每种怪物的属性&lt;br&gt;和掉落可能" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-19" value="寻找怪物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="910" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-20" value="与怪物战斗&lt;br&gt;胜利会返还" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-21" value="逃跑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5cG3bdQ71GEHRC8gfJG-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="790" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
