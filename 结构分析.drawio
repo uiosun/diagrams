@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T09:07:17.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V0qNdGLcQNv6KO6w_wJ3" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-10T09:47:19.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="l5NEwOqFqc4PY8QzLYES" version="20.5.3" type="github" pages="10">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1837,6 +1837,32 @@
         </mxCell>
         <mxCell id="Ua3xnd2pZbd364tPnXNJ-10" value="Grafana 基于 Metrics 的日志展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="266" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Ua3xnd2pZbd364tPnXNJ-18" target="Ua3xnd2pZbd364tPnXNJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-18" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;Prometheus 拉取数据的临时接口编写&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="266" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Ua3xnd2pZbd364tPnXNJ-20" target="Ua3xnd2pZbd364tPnXNJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-20" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;Prometheus 访问日志类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Ua3xnd2pZbd364tPnXNJ-21" target="Ua3xnd2pZbd364tPnXNJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-21" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;Prometheus 业务日志类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-26" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;自己的 Cloud&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;Prometheus&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;&lt;br&gt;&amp;nbsp;对接&amp;nbsp; WMS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua3xnd2pZbd364tPnXNJ-29" value="&lt;span style=&quot;color: rgb(57, 60, 86);&quot;&gt;Prometheus 的数据收集器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
