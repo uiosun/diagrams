@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T05:09:40.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.7.4" etag="U5zdNeXU1-DUPsXiF1bR" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-06T05:13:02.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.7.4" etag="swWJF70dqKv0M0JfgNpy" type="github" pages="2">
   <diagram id="7TorJaj84yTCqKZ7y2PA" name="LogicLine">
     <mxGraphModel dx="3088" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
           <mxGeometry x="640" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o8HMljJ-OH84ekHrx8P0-18" value="按市价出售给" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="o8HMljJ-OH84ekHrx8P0-11" target="o8HMljJ-OH84ekHrx8P0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWXhpwaVSePiVUwxpLT_-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="o8HMljJ-OH84ekHrx8P0-11" target="HWXhpwaVSePiVUwxpLT_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8HMljJ-OH84ekHrx8P0-11" value="国有工厂&lt;br&gt;&lt;br&gt;迟钝工厂，解决非高精尖的生产缺陷" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -144,6 +147,12 @@
         <mxCell id="yjSTWo8sZQxmbBldmsX--2" value="职位薪资平均数&lt;br&gt;&lt;br&gt;行业吸引力" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="920" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="HWXhpwaVSePiVUwxpLT_-1" value="国有生产&lt;br&gt;&lt;br&gt;每天一次&lt;br&gt;立刻投放市场" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-5QMo3vvoiYtkAZzp1qb-1" value="时间&lt;br&gt;&lt;br&gt;1 天是一个月&lt;br&gt;48 分钟是一天" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1050" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -210,7 +219,10 @@
         <mxCell id="8uO3L_O39MlxT7VEqRYJ-17" value="按市价出售给" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="8uO3L_O39MlxT7VEqRYJ-18" target="8uO3L_O39MlxT7VEqRYJ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8uO3L_O39MlxT7VEqRYJ-18" value="国有工厂&lt;br&gt;&lt;br&gt;一条记录，国有标记" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="1v2oQKcwEJllPBnLDrID-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="8uO3L_O39MlxT7VEqRYJ-18" target="1v2oQKcwEJllPBnLDrID-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uO3L_O39MlxT7VEqRYJ-18" value="国有工厂&lt;br&gt;&lt;br&gt;一条工厂记录&lt;br&gt;国有标记" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-220" y="370" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8uO3L_O39MlxT7VEqRYJ-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="8uO3L_O39MlxT7VEqRYJ-21" target="8uO3L_O39MlxT7VEqRYJ-25">
@@ -293,6 +305,15 @@
         </mxCell>
         <mxCell id="1v2oQKcwEJllPBnLDrID-7" value="职位薪资平均数&lt;br&gt;&lt;br&gt;一个数字" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="920" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1v2oQKcwEJllPBnLDrID-12" value="时间&lt;br&gt;&lt;br&gt;1 天是一个月&lt;br&gt;48 分钟是一天" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1050" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lSSUMn7iQjyBgaWgOzQy-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="1v2oQKcwEJllPBnLDrID-14" target="8uO3L_O39MlxT7VEqRYJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1v2oQKcwEJllPBnLDrID-14" value="国有生产&lt;br&gt;&lt;br&gt;一个数值" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="480" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
