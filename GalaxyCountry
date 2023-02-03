@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T10:21:32.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YGSrEeZi1EeWHMabFju-" version="20.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-03T16:17:32.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6xbzM9OYUszHxc4oSAPK" version="20.8.15" type="github" pages="5">
   <diagram id="7TorJaj84yTCqKZ7y2PA" name="LogicLine">
     <mxGraphModel dx="3088" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,6 +509,65 @@
         </mxCell>
         <mxCell id="mIdlBaj01mqybHekZkWz-29" value="随机工厂削减&lt;br&gt;工人数量" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K5yCXI97bSYw1y3yCtLM" name="第 5 页">
+    <mxGraphModel dx="735" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="00mM0RJmHojW0sRibp89-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-1" target="00mM0RJmHojW0sRibp89-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-1" value="战斗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-2" target="00mM0RJmHojW0sRibp89-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-2" target="00mM0RJmHojW0sRibp89-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-2" value="角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-3" value="装备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-6" target="00mM0RJmHojW0sRibp89-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-6" value="场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-9" value="级别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-10" value="职业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-11" target="00mM0RJmHojW0sRibp89-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-11" target="00mM0RJmHojW0sRibp89-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-11" value="自家农场&lt;br&gt;&lt;br&gt;建造场所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00mM0RJmHojW0sRibp89-12" target="00mM0RJmHojW0sRibp89-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-12" value="宁静之森&lt;br&gt;&lt;br&gt;战斗场所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-13" value="飘渺湖&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;战斗场所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00mM0RJmHojW0sRibp89-16" value="农场主镇&lt;br&gt;&lt;br&gt;交易场所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
