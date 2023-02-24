@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T06:03:14.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="476argjJZJ_4yuPYzcA3" version="20.8.20" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-24T09:29:07.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LtY9jkm1zOh5UxZKje45" version="20.8.20" type="github" pages="8">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2277,7 +2277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D76w0wQy-gMrFAtlvdqi" name="Golang&#39;ETL">
-    <mxGraphModel dx="1195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2290,38 +2290,98 @@
         <mxCell id="V3qhbgxDVOt8fginarzH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-2" target="V3qhbgxDVOt8fginarzH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-2" target="V3qhbgxDVOt8fginarzH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-2" value="后台支持定义字段&lt;br&gt;（拆解雅婷老师目前出具的工作）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-6" target="V3qhbgxDVOt8fginarzH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V3qhbgxDVOt8fginarzH-6" value="Excel 再生成&lt;br&gt;&lt;br&gt;支持数据类型指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V3qhbgxDVOt8fginarzH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-6" target="V3qhbgxDVOt8fginarzH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-6" value="Excel 再生成&lt;br&gt;支持数据类型指定&lt;br&gt;转换为对应类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-10" target="V3qhbgxDVOt8fginarzH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-10" value="Excel 再生成&lt;br&gt;&lt;br&gt;支持数据默认值填充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="602" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-17" target="V3qhbgxDVOt8fginarzH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-17" value="Excel 再生成&lt;br&gt;&lt;br&gt;时间等格式指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="356" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-19" target="V3qhbgxDVOt8fginarzH-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-19" value="Excel 再生成&lt;br&gt;&lt;br&gt;定义 API 回调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="106" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ETL 工具拆解企划&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="20" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-22" value="契约 -&amp;gt; 数据发&lt;br&gt;送 -&amp;gt; 数据收取 -&amp;gt;&lt;br&gt;数据整理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="106" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-25" value="ETL 功能&lt;br&gt;增加文件字段与&lt;br&gt;表字段的关系映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-27" target="V3qhbgxDVOt8fginarzH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-27" value="ETL 功能&lt;br&gt;&lt;br&gt;设置变量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-30" value="ETL 功能&lt;br&gt;&lt;br&gt;增加额外字段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-32" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;对错误类型的值，&lt;br&gt;强制转换或报警&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="827" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-35" target="V3qhbgxDVOt8fginarzH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-35" value="ETL 功能&lt;br&gt;字段值的去重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-36" target="V3qhbgxDVOt8fginarzH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-36" value="ETL 功能&lt;br&gt;简单表达式&lt;br&gt;A=B so 执行C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-37" value="C 是定制好的&lt;br&gt;一些通用逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-41" target="V3qhbgxDVOt8fginarzH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-41" target="V3qhbgxDVOt8fginarzH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-41" target="V3qhbgxDVOt8fginarzH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-41" value="ETL 功能&lt;br&gt;异常处理策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-42" value="成功入库、错误记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-46" value="有错误时不做任何录入，直接终止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-48" value="ETL 功能&lt;br&gt;关联展示的存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3qhbgxDVOt8fginarzH-50" value="ETL 功能&lt;br&gt;字段值的更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
