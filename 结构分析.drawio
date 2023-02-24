@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T09:29:07.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LtY9jkm1zOh5UxZKje45" version="20.8.20" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-24T10:05:55.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LNteGroyeEeh8g0VYRwG" version="20.8.20" type="github" pages="8">
   <diagram id="-uO7c01zvqMkISeJF9gR" name="Page-1">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2314,7 +2314,7 @@
         <mxCell id="V3qhbgxDVOt8fginarzH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-17" target="V3qhbgxDVOt8fginarzH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V3qhbgxDVOt8fginarzH-17" value="Excel 再生成&lt;br&gt;&lt;br&gt;时间等格式指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V3qhbgxDVOt8fginarzH-17" value="Excel 再生成&lt;br&gt;枚举等值范围检查&lt;br&gt;时间等格式指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="V3qhbgxDVOt8fginarzH-19" target="V3qhbgxDVOt8fginarzH-22">
@@ -2377,7 +2377,7 @@
         <mxCell id="V3qhbgxDVOt8fginarzH-46" value="有错误时不做任何录入，直接终止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-120" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V3qhbgxDVOt8fginarzH-48" value="ETL 功能&lt;br&gt;关联展示的存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V3qhbgxDVOt8fginarzH-48" value="ETL 功能&lt;br&gt;关联展示的存储&lt;br&gt;渠道 -&amp;gt; 渠道ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3qhbgxDVOt8fginarzH-50" value="ETL 功能&lt;br&gt;字段值的更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
