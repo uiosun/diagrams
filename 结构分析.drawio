@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T06:57:29.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ONefD8cAOTUdm1lw7OLw" version="21.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-07T05:06:36.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GdKWqZ51oJJ2rm4siHS3" version="21.0.1" type="github" pages="5">
   <diagram id="pEkRGxdHK4usvcpMnKb_" name="Request Analyze">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -917,18 +917,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D3ocsHB223YjcViYo6Dn" name="BI System">
-    <mxGraphModel dx="1886" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lHJ7icGKVsVH9dwcfdrH-1" value="数据流程脉络" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lHJ7icGKVsVH9dwcfdrH-1" value="数据流程&lt;br&gt;桑基图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svw18svG7asl84IP3YPZ-2" value="ETL" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;height=20;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="svw18svG7asl84IP3YPZ-1" value="数据源与映射&lt;br&gt;管理器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svw18svG7asl84IP3YPZ-2">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svw18svG7asl84IP3YPZ-3" value="数据源导入步骤&lt;br&gt;设定器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svw18svG7asl84IP3YPZ-2">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svw18svG7asl84IP3YPZ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="svw18svG7asl84IP3YPZ-2">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svw18svG7asl84IP3YPZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svw18svG7asl84IP3YPZ-7" target="lHJ7icGKVsVH9dwcfdrH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svw18svG7asl84IP3YPZ-7" value="数据流程&lt;br&gt;监测器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="V5eFfsywJe_IzZTPgq0j" name="ETL 页面流程">
-    <mxGraphModel dx="717" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -983,10 +1001,13 @@
         <mxCell id="5A7k6tvmvKSgoN31qtxy-17" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;由程序提供的&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;额外字段&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;譬如：billing_data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1760" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5A7k6tvmvKSgoN31qtxy-18" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;由用户制定的&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;额外字段&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;譬如：用户需要一个默认 0 的 test_filed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5A7k6tvmvKSgoN31qtxy-18" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;由用户制定的&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;额外字段&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;譬如：用户需要一个默认 0 的 test_filed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1905" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5A7k6tvmvKSgoN31qtxy-19" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;定义具体组件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="AvgyGIclbtL_d_fbMrAP-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5A7k6tvmvKSgoN31qtxy-19" target="5A7k6tvmvKSgoN31qtxy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A7k6tvmvKSgoN31qtxy-19" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;定义具体组件&lt;br&gt;保存&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2200" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5A7k6tvmvKSgoN31qtxy-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A7k6tvmvKSgoN31qtxy-20" target="5A7k6tvmvKSgoN31qtxy-25">
